@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  25 SEP 2024 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  25 SEP 2024 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,7 +345,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
 
 ]
-Underfull \hbox (badness 1436) in paragraph at lines 111--111
+Underfull \hbox (badness 1436) in paragraph at lines 104--104
 []\OT1/cmr/bx/n/14.4 Feasibility of Im-ple-men-ta-
  []
 
@@ -370,7 +370,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,375b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\evans\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on FeasibilityStudy.pdf (3 pages, 94037 bytes).
+Output written on FeasibilityStudy.pdf (3 pages, 94043 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
