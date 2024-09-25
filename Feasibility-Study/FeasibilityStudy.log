@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  23 SEP 2024 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  25 SEP 2024 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/evans/OneDrive/Desktop/LateX/Dissertation/FeasibilityStudy.tex
-(c:/Users/evans/OneDrive/Desktop/LateX/Dissertation/FeasibilityStudy.tex
+**c:/Users/evans/OneDrive/Desktop/LateX/Dissertation/Feasibility-Study/FeasibilityStudy.tex
+(c:/Users/evans/OneDrive/Desktop/LateX/Dissertation/Feasibility-Study/FeasibilityStudy.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\evans\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -331,36 +331,27 @@ Package hyperref Info: Link coloring OFF on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1{C:/Users/evans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-
-
-] (FeasibilityStudy.toc)
-\tf@toc=\write4
-\openout4 = `FeasibilityStudy.toc'.
-
- [2
-
-]
-Underfull \hbox (badness 3000) in paragraph at lines 44--45
+Underfull \hbox (badness 3000) in paragraph at lines 39--40
 \OT1/cmr/m/n/10.95 Define the project's scope, in-clud-ing the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []\OT1/cmr/bx/n/10.95 Sustainability and en-vi-ron-men-tal
  []
 
+[1{C:/Users/evans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-Underfull \hbox (badness 1436) in paragraph at lines 102--102
+
+]
+Underfull \hbox (badness 1436) in paragraph at lines 111--111
 []\OT1/cmr/bx/n/14.4 Feasibility of Im-ple-men-ta-
  []
 
-[3
+[2
 
-] [4
-
-] (FeasibilityStudy.bbl) [5
+] (FeasibilityStudy.bbl) [3
 
 ] (FeasibilityStudy.aux)
  ***********
@@ -371,17 +362,17 @@ Package rerunfilecheck Info: File `FeasibilityStudy.out' has not changed.
 (rerunfilecheck)             Checksum: 60A539D1A61CEB8408DB6B48683F95FF;2139.
  ) 
 Here is how much of TeX's memory you used:
- 10006 strings out of 474485
- 155537 string characters out of 5743734
- 1937542 words of memory out of 5000000
- 32151 multiletter control sequences out of 15000+600000
+ 9996 strings out of 474485
+ 155509 string characters out of 5743734
+ 1940542 words of memory out of 5000000
+ 32147 multiletter control sequences out of 15000+600000
  565826 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,357b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,375b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\evans\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on FeasibilityStudy.pdf (5 pages, 102394 bytes).
+Output written on FeasibilityStudy.pdf (3 pages, 94037 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
