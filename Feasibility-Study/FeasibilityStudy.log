@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  25 SEP 2024 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.28)  28 SEP 2024 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,13 +345,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
 
 ]
-Underfull \hbox (badness 1436) in paragraph at lines 104--104
+Underfull \hbox (badness 1436) in paragraph at lines 107--107
 []\OT1/cmr/bx/n/14.4 Feasibility of Im-ple-men-ta-
  []
 
-[2
 
-] (FeasibilityStudy.bbl) [3
+Underfull \vbox (badness 1354) has occurred while \output is active []
+
+ [2] (FeasibilityStudy.bbl) [3
 
 ] (FeasibilityStudy.aux)
  ***********
@@ -359,20 +360,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `FeasibilityStudy.out' has not changed.
-(rerunfilecheck)             Checksum: 60A539D1A61CEB8408DB6B48683F95FF;2139.
+(rerunfilecheck)             Checksum: D7FD2C16644E671D70F725C13364C266;2407.
  ) 
 Here is how much of TeX's memory you used:
  9996 strings out of 474485
- 155509 string characters out of 5743734
+ 155571 string characters out of 5743734
  1940542 words of memory out of 5000000
- 32147 multiletter control sequences out of 15000+600000
- 565826 words of font info for 62 fonts, out of 8000000 for 9000
+ 32145 multiletter control sequences out of 15000+600000
+ 564986 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,375b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,393b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\evans\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on FeasibilityStudy.pdf (3 pages, 94043 bytes).
+Output written on FeasibilityStudy.pdf (3 pages, 96493 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
